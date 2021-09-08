@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="adiciona_tarefas">adiciona tarefas</string>
+    <string name="titulo">Título</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="passear_com_o_cachorro">Passear com o cachorro</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="ops_voce_nao_possui_nnenhum_tarefa">Ops! Você não possui\nnenhum tarefa</string>
+</resources>
